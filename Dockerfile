@@ -6,7 +6,7 @@
 
 
 # Latest Ubuntu LTS from stackbrew
-FROM stackbrew/ubuntu:14.04
+FROM dalekurt/base
 MAINTAINER Dale-Kurt Murray "dalekurt.murray@gmail.com"
 
 # Add Repository
